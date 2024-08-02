@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e96d4e2c-0101-4003-b544-3c7ae6a6bd0c",
+    "name": "abdo",
+    "age": 30,
+    "country": "banha",
+    "email": "abdo@gamil.com",
+    "password": "123456"
+  },
+  {
+    "id": "be0e3670-0f0c-4b82-b8f0-cfa6828d41c7",
+    "name": "ali",
+    "age": 30,
+    "country": "banha",
+    "email": "ali@gamil.com",
+    "password": "123456"
+  }
+]
